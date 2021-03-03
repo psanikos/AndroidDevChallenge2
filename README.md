@@ -1,12 +1,12 @@
-# Put title of your app here
-QuickTimer
+# QuickTimer
+
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
 ![Workflow result](https://github.com/psanikos/AndroidDevChallenge2/workflows/Check/badge.svg)
 
 
-## :scroll: Description
-Count down timer written in Jetpack Compose
+## :scroll: Count down timer written in Jetpack Compose
+
 <!--- Describe your app in one or two sentences -->
 
 
